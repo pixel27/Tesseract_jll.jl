@@ -1,0 +1,252 @@
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e336188556f2f1f72688f78c5e90b05407404535"
+os = "freebsd"
+
+    [[Tesseract.download]]
+    sha256 = "2e33d3edd4737bef0491f651864cb993373d8679ddd69137e6c43138d760386e"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[Tesseract]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cee765656c2a2981cb176403425511e91d4c7a10"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "fb21242642b04b72868fe7baf43464fbf10aa1589c930ed38255bf946d2dc62f"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.i686-linux-gnu-cxx11.tar.gz"
+[[Tesseract]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "487b9188a616168dd94416678cc6b9d88ef97641"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "9cfef2f5def88e5a3df97725049f8de480ea3591e4e92d46848bfcf4be41099d"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.aarch64-linux-musl-cxx03.tar.gz"
+[[Tesseract]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "873a5a895ad4250b2eef3308695cf5349c3b4a57"
+os = "windows"
+
+    [[Tesseract.download]]
+    sha256 = "a378552c3b5b568e69314ee2b9b91fb67b9bfeccfd1768170ba53c0bf3621d86"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.i686-w64-mingw32-cxx11.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "433e857a6952fdb3b47219561f35832e04b40cc3"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "91030eaddcba0cae6e2c3cfe88d24f4314316cd1141e499cd9884ddfaa8a8b6d"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-linux-gnu-cxx03.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "00c383228977b0d1f786836396f77406a89e4805"
+os = "windows"
+
+    [[Tesseract.download]]
+    sha256 = "101c754855e378ee140d9fa071cf13e35fe37825de8e69b71118fcf2c6951d97"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-w64-mingw32-cxx11.tar.gz"
+[[Tesseract]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cc28c24b2b420cf79dcb8bed75f85d3ca4f833d6"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "fd16b48da0a00c9ebc58f2b321501be0f686ea1950bfd00dd95a95158625dd76"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[Tesseract]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ae6c5f07652dd34227dcd0e188379eec89af454d"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "4aab529fe8f10711ecd074cea7808e5ad649d0b5a8d64161d2d8fa5f7b893560"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[Tesseract]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "70d26b9521da8d2612c0a483cef8893bbac9046c"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "5d33a92f39f69f26abf63b8b389c4b4b301f0de5ff19038d6876e75073ac2ae4"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.aarch64-linux-gnu-cxx11.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cc9cb4e625a2671a4fc229fe5bc5dee0c89700a0"
+os = "windows"
+
+    [[Tesseract.download]]
+    sha256 = "43a1a8c9d92c6fb51f31facbfd1ef35f84f97c46701f3961af6f579e46ab903b"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-w64-mingw32-cxx03.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "423a48a7fa4b7140c06a35fd943575d9cf98ce2d"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "74a898aeed84752bb588e3cef80a55028335dcc58e902e931054ac046288d69c"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-linux-musl-cxx11.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0f3fae9201d21074251dd3f00eab8311f8a799aa"
+os = "freebsd"
+
+    [[Tesseract.download]]
+    sha256 = "b3771d51aae10d3efd9e3389087cedd13a4e9b077754d78eec094f0b072a5411"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-unknown-freebsd11.1-cxx03.tar.gz"
+[[Tesseract]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e505338faa45e425f1c9722a42cb933a02067a50"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "0eb051e4c18d8c6e2f8fc16c2603b78cb84a085de166ce0c6476532385874594"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.i686-linux-musl-cxx11.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "9209d1157a7d1a50f30051c954cc2199ca11bfce"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "1a063917677498106379c6e22cc626e42fe9a781e512d5584e5fe2041ebfc2b4"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-linux-musl-cxx03.tar.gz"
+[[Tesseract]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "3e9aac953998c59166b691f9adfd42d53a86ad50"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "19d6af34fbf753d5b768eb61352b3fd1c5fcaa80878a9cf740cfdd3fa44246db"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.aarch64-linux-gnu-cxx03.tar.gz"
+[[Tesseract]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "be620d0164da9024b8d252f1b973567a4e141fb1"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "7da5873e9f78ab7322c399416ad2db9c9bcf98e64aeedb16755361183f4d05b0"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.aarch64-linux-musl-cxx11.tar.gz"
+[[Tesseract]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "43bf6cb549a577b801f92d99197b7785b81954c3"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "a857d7f831ba3e9012a2d0a917c6c53935e53ed1ed67928717118d7b043f1eab"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[Tesseract]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "fa3445f2a537af39c33036519a96fb36c53d1584"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "87e2438d6d050bf6a7fb690242c26e928cf99b5036df37be851ecbabd93fea9c"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.i686-linux-musl-cxx03.tar.gz"
+[[Tesseract]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "6221945b43c6ccc1e1727ab939dcaf60f24ce5b8"
+os = "windows"
+
+    [[Tesseract.download]]
+    sha256 = "6aed39f794581faa828f6f7dcd6a25b808af5e44bf70c4f5ceccdbe6c52bc047"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.i686-w64-mingw32-cxx03.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f9fdd2d99a94ce68cba82cf2884367a5d5ffb1ac"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "bb816f6106119c39a5547e7ef585ba05919380d6951c11005f2d913f0f40681d"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-linux-gnu-cxx11.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c90cfe349b06f3fef861cf1126681a4c95f79c4d"
+os = "macos"
+
+    [[Tesseract.download]]
+    sha256 = "6c237a0dfdebaebc0e2d39e2e2f0d65acf1c8c4d92beed78a1ad4189936e75fe"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-apple-darwin14-cxx03.tar.gz"
+[[Tesseract]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "1d579998348c4f40e0f3dfd3b749ee115227eb71"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "7095218983a41694dadf6119f8295e1526aa3e5ff1b441c93fd22d08e876007d"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.i686-linux-gnu-cxx03.tar.gz"
+[[Tesseract]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "681ecefd17e123e36a368d830566e5b861c68611"
+libc = "musl"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "ad5dc2409452765089087e032928484b381f27e43f0c369d2289d8a23c37f897"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[Tesseract]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c35d4ca3f47c15f795e540f54ba7b05cb4101316"
+os = "macos"
+
+    [[Tesseract.download]]
+    sha256 = "6447488ddca68dc4fe82e3cf040cc1be50a256882706b2670db2a4827b14b42e"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.x86_64-apple-darwin14-cxx11.tar.gz"
+[[Tesseract]]
+arch = "armv7l"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "697e6debbb2960c53a9fe98b4df52f510592d1b7"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "98709ed26d93dd10f52c6c368a84e6ab8fd2fa8bed46421956137afe0090d93d"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[Tesseract]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "446a291063d915d953dac8466e99657799897836"
+libc = "glibc"
+os = "linux"
+
+    [[Tesseract.download]]
+    sha256 = "9cc730e52f25e438f3879a50439d6788abe7aeede5a2e7f440a580408fddabfa"
+    url = "https://github.com/pixel27/Tesseract_jll.jl/releases/download/Tesseract-v4.1.1+0/Tesseract.v4.1.1.powerpc64le-linux-gnu-cxx03.tar.gz"
